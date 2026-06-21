@@ -17,7 +17,7 @@ EfficientNet-B0 tabanlı transfer learning modeli ile X-ray görüntülerinden k
 
 ## 🚀 Demo
 
-👉 [Hugging Face Spaces Demo](https://huggingface.co/spaces/pelinbingl/bone-fracture-detection)
+👉 [Hugging Face Spaces Demo](https://huggingface.co/spaces/pelin-bingol/bone-fracture-detection)
 
 ## 📁 Dataset
 
